@@ -4,7 +4,7 @@ I'm **Daniem01**, from Spain 🇪🇸
 
 - 🎓 I'm currently studying **Computer Engineering** at **Complutense University of Madrid (UCM)**.
 - 🌱 I'm also diving into the **Cybersecurity** world studying on my own.
-- 🎮 I love playing videogames, training in the gym 💪 and I love puzzles 🧩 and cubing.
+- 🎮 I love playing videogames, training in the gym 💪 and I love puzzles 🧩.
 - 📈 I want to prepare myself and then try to collaborate on any **Open Source** project to make good friends and learn from the greatest professionals that work there.
 - 📫 Contact: **danimartindc01@gmail.com**
 
